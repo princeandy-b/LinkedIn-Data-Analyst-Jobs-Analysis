@@ -19,9 +19,9 @@ This project analyzes Data Analyst job postings from LinkedIn across three regio
 - **Canada:** Similar trend, but a slightly higher proportion of roles require 3-5 years.
 - **USA:** Majority of postings require 2-4 years, with rare postings asking for 20 years.
 
-![Experience Requirement Distribution Africa](images/Experience%20Requirement%20Distribution%20%28Africa%29.png)
-![Experience Requirement Distribution Canada](images/Experience%20Requirement%20Distribution%20%28Canada%29.png)
-![Experience Requirement Distribution USA](images/Experience%20Requirement%20Distribution%20%28USA%29.png)
+![Experience Requirement Distribution Africa](https://github.com/princeandy-b/LinkedIn-Data-Analyst-Jobs-Analysis/blob/6df50857db978ae044a088363bdf26eb08ed8859/Images/Experience%20Requirement%20Distribution%20(Africa).png)
+![Experience Requirement Distribution Canada](https://github.com/princeandy-b/LinkedIn-Data-Analyst-Jobs-Analysis/blob/6df50857db978ae044a088363bdf26eb08ed8859/Images/Experience%20Requirement%20Distribution%20(Canada).png)
+![Experience Requirement Distribution USA](https://github.com/princeandy-b/LinkedIn-Data-Analyst-Jobs-Analysis/blob/6df50857db978ae044a088363bdf26eb08ed8859/Images/Experience%20Requirement%20Distribution%20(USA).png)
 
 
 ---
@@ -34,9 +34,9 @@ This project analyzes Data Analyst job postings from LinkedIn across three regio
   - Canada: R, SQL, and Python lead.  
   - USA: R and SQL dominate, with Python and Excel also prominent.
 
-![Most in-demand skills Africa](./images/Most%20in-demand%20skills%20%28Africa%29.png)
-![Most in-demand skills Canada](./images/Most%20in-demand%20skills%20%28Canada%29.png)
-![Most in-demand skills USA](./images/Most%20in-demand%20skills%20%28USA%29.png)
+![Most in-demand skills Africa](https://github.com/princeandy-b/LinkedIn-Data-Analyst-Jobs-Analysis/blob/6df50857db978ae044a088363bdf26eb08ed8859/Images/Most%20in-demand%20skills%20(Africa).png)
+![Most in-demand skills Canada](https://github.com/princeandy-b/LinkedIn-Data-Analyst-Jobs-Analysis/blob/6df50857db978ae044a088363bdf26eb08ed8859/Images/Most%20in-demand%20skills%20(Canada).png)
+![Most in-demand skills USA](https://github.com/princeandy-b/LinkedIn-Data-Analyst-Jobs-Analysis/blob/6df50857db978ae044a088363bdf26eb08ed8859/Images/Most%20in-demand%20skills%20(USA).png)
 
 ---
 
@@ -46,9 +46,9 @@ This project analyzes Data Analyst job postings from LinkedIn across three regio
 - Other frequent titles include "Junior Data Analyst", "Senior Data Analyst", and specialized analyst roles.
 
 
-![Top Data Analyst Job titles Africa](./images/Top%20Data%20Analyst%20Job%titles%20%28Africa%29.png)
-![Top Data Analyst Job titles Canada](./images/Top%20data%20analyst%20job%titles%20%28Canada%29.png)
-![Top Data Analyst Job titles USA](./images/Top%20data%20analyst%20job%titles%20%28USA%29.png)
+![Top Data Analyst Job titles Africa](https://github.com/princeandy-b/LinkedIn-Data-Analyst-Jobs-Analysis/blob/6df50857db978ae044a088363bdf26eb08ed8859/Images/Top%20Data%20Analyst%20Job%20titles%20(Africa).png)
+![Top Data Analyst Job titles Canada](https://github.com/princeandy-b/LinkedIn-Data-Analyst-Jobs-Analysis/blob/6df50857db978ae044a088363bdf26eb08ed8859/Images/Top%20data%20analyst%20job%20titles%20(Canada).png)
+![Top Data Analyst Job titles USA](https://github.com/princeandy-b/LinkedIn-Data-Analyst-Jobs-Analysis/blob/6df50857db978ae044a088363bdf26eb08ed8859/Images/Top%20data%20analyst%20job%20titles%20(USA).png)
 
 ---
 
@@ -56,9 +56,9 @@ This project analyzes Data Analyst job postings from LinkedIn across three regio
 
 - All three regions show a relatively balanced distribution among onsite, remote, and hybrid roles, with a slight preference for onsite in Canada.
 
-![Work Schedule Chart Africa](./images/Work%20Schedule%20chart%20%28Africa%29.png)
-![Work Schedule Chart Canada](./images/Work%20Schedule%20Chart%20%28Canada%29.png)
-![Work Schedule Chart USA](./images/Work%20schedule%20chart%20%28Africa%29.png)
+![Work Schedule Chart Africa](https://github.com/princeandy-b/LinkedIn-Data-Analyst-Jobs-Analysis/blob/6df50857db978ae044a088363bdf26eb08ed8859/Images/Work%20Schedule%20chart%20(Africa).png)
+![Work Schedule Chart Canada](https://github.com/princeandy-b/LinkedIn-Data-Analyst-Jobs-Analysis/blob/6df50857db978ae044a088363bdf26eb08ed8859/Images/Work%20Schedule%20Chart%20(Canada).png)
+![Work Schedule Chart USA](https://github.com/princeandy-b/LinkedIn-Data-Analyst-Jobs-Analysis/blob/6df50857db978ae044a088363bdf26eb08ed8859/Images/Work%20schedule%20chart%20(USA).png)
 
 ---
 
